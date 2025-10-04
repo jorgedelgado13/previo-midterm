@@ -1,6 +1,6 @@
 ---
-title: "PRACTICAS"
-author: "Diego Guanotasig"
+title: "Previo Midterm"
+author: "Jorge Delgado"
 date: "04-10-25"
 format: html
 jupyter: python3
@@ -10,10 +10,11 @@ jupyter: python3
 ## Subtitulo 2
 
 ```{python}
-%pip install matplotlib seaborn scikit-learn pandas numpy
+%pip install --user matplotlib seaborn scikit-learn pandas numpy
 ```
 
 ```{python}
+import sklearn
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
