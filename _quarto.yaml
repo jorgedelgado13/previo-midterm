@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs  # Cambiar de _site a docs
+ 
+website:
+  title: "Machine Learning"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+       
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
+    fig-align: center
+    embed-resources: true
+ 
