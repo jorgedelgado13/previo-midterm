@@ -10,7 +10,7 @@ jupyter: python3
 ## Subtitulo 2
 
 ```{python}
-%pip install --user matplotlib seaborn scikit-learn pandas numpy
+%pip install matplotlib seaborn scikit-learn pandas numpy
 ```
 
 ```{python}
